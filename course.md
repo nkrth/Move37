@@ -1,10 +1,10 @@
 # Move 37 Course
 
-- [ ] 1. Markov Decision Processes {0/7}
-    - [ ] 1.1 Introduction: [`watch_id`](https://youtu.be/watch_id) (11 min)
-    - [ ] 1.2 The Bellman Equation (30 min)
-    - [ ] 1.3 Markov Decision Processes (01 hour)
-    - [ ] 1.1 Value Functions Quiz (6 questions)
+- [ ] 1. Markov Decision Processes {4/7}
+    - [x] 1.1 Introduction: [`watch_id`](https://youtu.be/watch_id) (11 min)
+    - [x] 1.2 The Bellman Equation (30 min)
+    - [x] 1.3 Markov Decision Processes (01 hour)
+    - [x] 1.1 Value Functions Quiz (6 questions)
     - [ ] 1.4 Homework Assignment (OpenAI Gym Installation) (30 min)
     - [ ] 1.5 Sensor Networks (30 min)
     - [ ] 1.6 Google Dopamine (Live Stream) (30 min)
